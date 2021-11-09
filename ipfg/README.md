@@ -54,7 +54,7 @@ When using multiple options, only the final option will be recognized.
 Caching will only be attempted on one gateway at a time.
 
 GATEWAY URL FORMAT:
-	http[s]://<domain>.<tld>/ipfs/:hash
+	http[s]://<powermydomainname.crypto>.<tld>/ipfs/:hash
 
 EXAMPLES:
 	ipfg
